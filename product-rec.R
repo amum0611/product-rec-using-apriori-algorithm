@@ -1,5 +1,5 @@
 ##################################################################
-# Name: Analysis on Transactional Data from an eCommerce Platform
+# Name: Product Recommendation: An Analytical Approach
 # Author: Azeem Mumtaz
 ##################################################################
 
